@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Zoom</string>
+			<key>PayloadIdentifier</key>
+			<string>com.gravitational.zoom-config</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>us.zoom.config</string>
+			<key>PayloadUUID</key>
+			<string>190EC817-14C6-4F5E-A55B-7146B5F4DDCF</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ZAutoSSOLogin</key>
+			<true/>
+			<key>ZAutoUpdate</key>
+			<true/>
+			<key>EnableSilentAutoUpdate</key>
+			<true/>
+			<key>KeepSignedIn</key>
+			<true/>
+			<key>ForceSSOURL</key>
+			<string>goteleport.zoom.us</string>
+			<key>login_domain</key>
+			<string>goteleport.com</string>
+			<key>NoGoogle</key>
+			<true/>
+			<key>NoFacebook</key>
+			<true/>
+			<key>DisableLoginWithEmail</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Zoom Settings</string>
+	<key>PayloadIdentifier</key>
+	<string>com.gravitational.zoom-config</string>
+	<key>PayloadOrganization</key>
+	<string>Gravitational Inc</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>3362E045-5A89-4B2F-9406-EBC6BCA2A7AF</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
