@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DSDontWriteNetworkStores</key>
+			<true/>
+			<key>PayloadDisplayName</key>
+			<string>Desktop Services</string>
+			<key>PayloadIdentifier</key>
+			<string>com.gravitational.desktopservices</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.desktopservices</string>
+			<key>PayloadUUID</key>
+			<string>596BB554-0030-4A3C-AC23-1E1A16B9C5A1</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Prevent .DS_Store</string>
+	<key>PayloadIdentifier</key>
+	<string>com.gravitational.desktopservices</string>
+	<key>PayloadOrganization</key>
+	<string>Gravitational Inc</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>9C57E4A7-BE20-4C00-8190-54EF18BAA964</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
